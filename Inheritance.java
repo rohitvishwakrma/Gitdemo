@@ -22,7 +22,8 @@ class son extends parent{
 
  // here i modified 
  void disp(){
-  System.out.println(" here pull cmd"):
+  System.out.println(" here pull cmd");
+     System .out.println("Hello karan");
 }
 
 
