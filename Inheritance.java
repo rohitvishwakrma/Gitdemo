@@ -24,7 +24,7 @@ class son extends parent{
  void disp(){
   System.out.println(" here pull cmd"):
 }
->>>>>>> bd33aa24bfc9c1554cb6a5611ba07273ad95466d
+
 
 class son extends parent {
     int age;
