@@ -16,6 +16,8 @@ class son extends parent{
         System.out.println("the son name is:"+ Sname);
         System.out.println("son age is :"+ age);
     }
+
+ // here i modified 
  void disp(){
   System.out.println(" here pull cmd"):
 }
